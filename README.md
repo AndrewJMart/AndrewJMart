@@ -1,7 +1,7 @@
 <h1 align="center">Hello! Andrew Martinez</h1>
 <h3 align="center">Satellite SWE @ Boeing Defense, Los Angeles CA</h3>
 
-- 🌱 I’m currently learning **React, Spark, AWS, Airflow**
+- 🌱 I’m currently learning **C++**
 
 - 💬 Ask me about **PyTorch, Python, SQL**
 
