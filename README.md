@@ -1,11 +1,14 @@
 <h1 align="center">Hello! I'm Andrew Martinez</h1>
 <h3 align="center">MLE @ Boeing Defense, Los Angeles CA</h3>
 
-- 🌱 I’m currently learning **C, C++**
-
+- 🌱 I'm currently learning **C, C++**
+  
 - 💬 Ask me about **PyTorch, Python, SQL**
-
+  
 - 📫 How to reach me **amart89531@gmail.com**
+  
+- 📝 Check out my blog at **[andrewmartinez.dev](https://andrewmartinez.dev)** 
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
