@@ -1,5 +1,5 @@
 <h1 align="center">Hello! I'm Andrew Martinez</h1>
-<h3 align="center">MLE @ Boeing Defense, Los Angeles CA</h3>
+<h3 align="center">SWE @ Apple, Cupertino CA</h3>
 
 - 🌱 I'm currently learning **C, C++**
   
